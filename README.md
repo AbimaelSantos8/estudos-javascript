@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# estudos-javascript
-Conhecendo mais sobre o node.js para trabalhar com projetos back-end
-=======
+
 # 📚 Estudos JavaScript
 
 Repositório dedicado aos meus estudos em JavaScript com foco em desenvolvimento back-end.
@@ -29,4 +26,4 @@ Evoluir do básico ao avançado na linguagem, aplicando conceitos fundamentais p
 
 ## 📈 Evolução
 Projeto em constante evolução conforme avanço nos estudos.
->>>>>>> c22e391 (refactor: organiza estrutura em pastas(objetos, arrayz, operadores))
+
